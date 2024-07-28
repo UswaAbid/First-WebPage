@@ -34,7 +34,7 @@ This project aims to showcase my introductory skills in web development using HT
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/my-first-webpage.git
+   git clone https://github.com/UswaAbid/WebPages.git
    ```
 
 2. Open the `index.html` file in your web browser to view the webpage.
