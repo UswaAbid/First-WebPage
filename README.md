@@ -19,17 +19,6 @@ This project aims to showcase my introductory skills in web development using HT
 - HTML5
 - CSS3
 
-## File Structure:
-
-```
-├── index.html
-├── styles.css
-├── images/
-    ├── image1.jpg
-    ├── image2.png
-├── README.md
-```
-
 ## Getting Started:
 
 1. Clone the repository:
